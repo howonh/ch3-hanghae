@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ch3/nodejs_blog-main"
+		},
+		{
+			"path": "../spa_mall"
+		}
+	],
+	"settings": {}
+}
